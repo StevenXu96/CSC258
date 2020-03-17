@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b97ff6c3-fd54-492b-bbaf-910af2eab973" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZEhEB7wh4SL40WOQJCOoBrgRAq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b97ff6c3-fd54-492b-bbaf-910af2eab973" name="Default Changelist" comment="" />
+      <created>1584410046958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584410046958</updated>
+    </task>
+    <task id="LOCAL-00001" summary="pre_lab for lab_3">
+      <created>1584410151357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584410151357</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="pre_lab for lab_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="pre_lab for lab_3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="353" y="27" key="CommitChangelistDialog2" timestamp="1584410564260">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="353" y="27" key="CommitChangelistDialog2/0.23.1440.804/1440.23.2560.1417@0.23.1440.804" timestamp="1584410564260" />
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1584410187686">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.23.1440.804/1440.23.2560.1417@0.23.1440.804" timestamp="1584410187686" />
+  </component>
+</project>
