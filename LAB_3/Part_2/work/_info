@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/h/u5/c9/02/xushidon/Documents/lab_3/LAB_3/Part_2
+vfulladder
+Z1 !s110 1580246996
+!i10b 1
+!s100 XE3a2bdbA3@o>IKISY;OR3
+IEPYAG^5UaE^`EEA^E52Bf2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1580246354
+Z4 8ripple_adder.v
+Z5 Fripple_adder.v
+L0 14
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1580246996.000000
+Z8 !s107 ripple_adder.v|
+Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|ripple_adder.v|
+!i113 1
+Z10 o-timescale 1ns/1ns
+Z11 tCvgOpt 0
+vmux2to1
+R1
+!i10b 1
+!s100 MjH:A_9FoUiz8Z2AanH=e1
+IVibHN69beN2TM>5AWG?o=1
+R2
+R0
+R3
+R4
+R5
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vripple_adder
+R1
+!i10b 1
+!s100 U[<F74Jm`>ncoEUm^JS<k1
+I4Ce>zI2S=39fmPJRUgh[H1
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
