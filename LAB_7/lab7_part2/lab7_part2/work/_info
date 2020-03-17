@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/media/xushidon/8CF4-80C1/Lab_7/part_2/2/lab7_part2/lab7_part2
+vcombo
+Z1 !s110 1583888367
+!i10b 1
+!s100 _T]PL=UTWE]61KCh?Ocdi0
+I13L6fKIgzZi^=[iK;LPmK3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1583887121
+Z4 8part2.v
+Z5 Fpart2.v
+L0 213
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1583888367.000000
+Z8 !s107 part2.v|
+Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|part2.v|
+!i113 1
+Z10 o-timescale 1ns/1ns
+Z11 tCvgOpt 0
+vcontroller
+R1
+!i10b 1
+!s100 ?1DiOXoGOef`Qg8N1l@E90
+I1<Xg4n>n_RGLLS_goZI<z1
+R2
+R0
+R3
+R4
+R5
+L0 160
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vdatapath
+R1
+!i10b 1
+!s100 06o?CIZ3YWISH<QP06?EJ2
+IInU15R3K?kdSY=:f=^]]g1
+R2
+R0
+R3
+R4
+R5
+L0 100
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vpart2
+R1
+!i10b 1
+!s100 k[2n23gOUcEi;ncek6GBz1
+I_4c>2j?90_6kP^gYMfn<D2
+R2
+R0
+R3
+R4
+R5
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vvga_adapter
+R1
+!i10b 1
+!s100 d;:z^Zo<]k59X]>:]7K9k1
+ICO_bX=?FJS4;WQ=o@95ie3
+R2
+R0
+R3
+R4
+R5
+L0 231
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vvga_address_translator
+R1
+!i10b 1
+!s100 D3VZfGNMl:;Ao>V2J7FT>3
+I:6VRi5BlCP;`<Q@Y;4mAl3
+R2
+R0
+R3
+R4
+R5
+L0 603
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vvga_controller
+R1
+!i10b 1
+!s100 PFM>A0>XL6H[1LOlJCA5;3
+I:TM8Ph`:giZfS`i8o4>E70
+R2
+R0
+R3
+R4
+R5
+L0 412
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vvga_pll
+R1
+!i10b 1
+!s100 HNiPg^_OHKihJcWkZ`:Mj3
+I_J5HbXY]l;1cP`GF<EMUX3
+R2
+R0
+R3
+R4
+R5
+L0 636
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
